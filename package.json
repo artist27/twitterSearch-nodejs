@@ -6,10 +6,10 @@
     "start": "node ./app.js"
   },
   "dependencies": {
-    "express": "~4.2.0",
-    "cookie-parser": "~1.0.1",
-    "body-parser": "~1.0.0",
-    "ejs": "~0.8.5",
+    "express": "~4.16.2",
+    "cookie-parser": "~1.4.3",
+    "body-parser": "~1.9.2",
+    "ejs": "~2.5.5",
     "mongodb": "*",
 	"twit": "*"
   }
